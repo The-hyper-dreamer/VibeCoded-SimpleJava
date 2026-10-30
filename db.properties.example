@@ -1,0 +1,6 @@
+# Database configuration for Classroom Maintenance Request System
+# Copy this file to db.properties and fill in your actual credentials
+
+db.url=jdbc:mysql://localhost:3307/anex
+db.username=maintenance_app
+db.password=your_app_password_here
